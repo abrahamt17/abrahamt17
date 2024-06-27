@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?abrahamt17=abrahamt17&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamt17&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?abrahamt17=your-abrahamt17&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamt17&layout=compact&theme=radical)
 
 ## Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?abrahamt17=abrahamt17&repo=your-repo&theme=radical)](https://github.com/abrahamt17/your-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrahamt17&repo=your-repo&theme=radical)](https://github.com/abrahamt17/your-repo)
+
 
