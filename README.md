@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 ## Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrahamt17&repo=your-repo&theme=radical)](https://github.com/abrahamt17/your-repo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrahamt17&repo=react-messenger&theme=radical)](https://github.com/abrahamt17/react-messenger)
 
 
