@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Your Email](mailto:tikuyeabraham@gmail.com)
 - ⚡ Fun fact: hmmm...
 
-## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamt17&show_icons=true&theme=radical)
 
 ## Top Languages
 
