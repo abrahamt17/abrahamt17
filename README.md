@@ -68,6 +68,9 @@ Check out my resume! Let's chat soon!
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+![MONGODB](https://img.shields.io/badge/-MONGODB-1572B6?style=flat-square&logo=mongodb&logoColor=white)
+![GIT](https://img.shields.io/badge/-GIT-1572B6?style=flat-square&logo=git&logoColor=white)
+
 ## Featured Projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abrahamt17&repo=react-messenger&theme=radical)](https://github.com/abrahamt17/react-messenger)
