@@ -39,6 +39,11 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamt17&layout=compact&theme=radical)
 
+## Top Languages
+
+[![Abraham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abrahamt17)](https://wakatime.com/@abrahamt17)
+
+
 ### Languages and Tools:
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
