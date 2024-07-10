@@ -30,19 +30,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Your Email](mailto:tikuyeabraham@gmail.com)
 - ⚡ Fun fact: hmmm...
 
-## Looking to crush it as a Front-End Dev Intern at your company!
-I'm a 3rd year Computer science student at University of Gondar and self-motivated for learning with a passion for building user-friendly web experiences.
-
-### My jam: ✨
-- 🔹 React.js
-- 🔹 Tailwind CSS
-- 🔹 JavaScript
-- 🔹 Next.js
-
-### Additional skills:
-- ✨ My-SQL, Redux, REST Api, Firebase, PHP, C++, Java, HTML5, CSS...
-
-Check out my resume! Let's chat soon!
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [GitHub](https://github.com/abrahamt17)
 - [Telegram](https://t.me/your-telegram-channel)
@@ -67,9 +54,8 @@ Check out my resume! Let's chat soon!
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-![MONGODB](https://img.shields.io/badge/-MONGODB-1572B6?style=flat-square&logo=mongodb&logoColor=white)
-![GIT](https://img.shields.io/badge/-GIT-1572B6?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured Projects
 
