@@ -35,13 +35,7 @@ Here are some ideas to get you started:
 - [Telegram](https://t.me/your-telegram-channel)
 - [Resume](https://link-to-your-resume)
 
-## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamt17&layout=compact&theme=radical)
-
-## Top Languages
-
-[![Abraham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abrahamt17)](https://wakatime.com/@abrahamt17)
 
 
 ### Languages and Tools:
