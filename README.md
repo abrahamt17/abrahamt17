@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamt17&layout=compact&theme=radical)
+
 
 [![Top Languages](https://github-profile-trophy.vercel.app/?username=abrahamt17&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
