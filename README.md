@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **abrahamt17/abrahamt17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +35,19 @@ Here are some ideas to get you started:
 - [Telegram](https://t.me/your-telegram-channel)
 - [Resume](https://link-to-your-resume)
 
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamt17&layout=compact&theme=radical)
+
+[![Top Languages](https://github-profile-trophy.vercel.app/?username=abrahamt17&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![CodeStats](https://codestats.net/badge/user/abrahamt17.svg)](https://codestats.net/)
+
+![Top Languages](https://img.shields.io/badge/Top%20Languages-JavaScript%20%7C%20React%20%7C%20Next.js-blue)
+### GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abrahamt17)
 
 
 
